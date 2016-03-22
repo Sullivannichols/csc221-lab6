@@ -3,7 +3,7 @@
 # the string are the same.
 # 
 def match_ends(words):
-    return
+    return None
 
 
 # Given a list of strings, return a list with the strings in sorted
@@ -15,7 +15,7 @@ def match_ends(words):
 # before combining them.
 # 
 def front_x(words):
-    return
+    return 
 
 
 # Given a list of non-empty tuples, return a list sorted in increasing
@@ -28,7 +28,7 @@ def front_x(words):
 # Hint: use a custom key= function to extract the last element from
 # each tuple.
 def sort_last(tuples):
-    return
+    return 
 
 
 
